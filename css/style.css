@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+
+
+body {
+    padding-top: 75px;
+}
+.navbar-brand , h1 ,h2, h3 ,h4 , h5 ,h6 {
+    font-family: 'Lobster', cursive;
+}
+.table>tbody>tr.purple>td {
+    background-color: purple;
+}
+.table>tbody>tr.ghum>td {
+    background-color: yellow;
+}
+.well {
+    /background-color: lightpink;
+}
+
+.ui-widget-content {
+    color: black;
+}
+table {
+    background-color: #272b30;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
